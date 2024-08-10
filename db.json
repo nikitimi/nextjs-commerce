@@ -8,6 +8,24 @@
       "currency": "USD",
       "image": "product_image",
       "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "product_title",
+      "description": "product_description",
+      "price": 2,
+      "currency": "USD",
+      "image": "product_image",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "title": "product_title",
+      "description": "product_description",
+      "price": 3,
+      "currency": "PHP",
+      "image": "product_image",
+      "rating": 4
     }
   ]
 }
