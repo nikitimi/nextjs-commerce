@@ -6,7 +6,7 @@
       "description": "The best overall",
       "price": 40000,
       "currency": "PHP",
-      "image": "/",
+      "image": "https://ottawapianos.com/wp-content/uploads/2020/10/775PE-1.jpg",
       "rating": 5,
       "subtitle": "The best overall"
     },
@@ -16,7 +16,7 @@
       "description": "The best entry-level digital piano",
       "price": 35000,
       "currency": "PHP",
-      "image": "/",
+      "image": "https://kawai.com.au/wp-content/uploads/2021/07/KDP120ES_main.jpg",
       "rating": 1,
       "subtitle": "The best entry-level digital piano"
     },
@@ -26,7 +26,7 @@
       "description": "The best Yamaha piano on a budget",
       "price": 30000,
       "currency": "PHP",
-      "image": "/",
+      "image": "https://cdn.mos.cms.futurecdn.net/UixS2un7mzNuntKdRBY5He-1200-80.jpg.webp",
       "rating": 5,
       "subtitle": "The best Yamaha piano on a budget"
     },
@@ -36,7 +36,7 @@
       "description": "The best for sound",
       "price": 30000,
       "currency": "PHP",
-      "image": "/",
+      "image": "https://cdn.mos.cms.futurecdn.net/voYJwXrfMryheVuAgP5ufS-1920-80.jpg",
       "rating": 5,
       "subtitle": "The best for sound"
     },
@@ -46,7 +46,7 @@
       "description": "The best for real hammer action",
       "price": 30000,
       "currency": "PHP",
-      "image": "/",
+      "image": "https://www.casiomusic.co.nz/cdn/shop/products/GP-310BK_P_close_1_1200x.png?v=1600124027",
       "rating": 2.5,
       "subtitle": "The best for real hammer action"
     },
@@ -56,7 +56,7 @@
       "description": "Roland's best slimline digital pian",
       "price": 25000,
       "currency": "PHP",
-      "image": "/",
+      "image": "https://static.roland.com/products/f107/images/f107_main.jpg",
       "rating": 4,
       "subtitle": "Roland's best slimline digital pian"
     },
@@ -66,7 +66,7 @@
       "description": "The best for modern home",
       "price": 30000,
       "currency": "PHP",
-      "image": "/",
+      "image": "https://m.media-amazon.com/images/I/616F0f2IEIL._AC_SL1500_.jpg",
       "rating": 3,
       "subtitle": "The best for modern home"
     },
@@ -76,7 +76,7 @@
       "description": "The best for synth and workstation functionality",
       "price": 30000,
       "currency": "PHP",
-      "image": "/",
+      "image": "https://www.marshallmusic.co.za/wp-content/uploads/2023/05/Roland-FP-E50-digital-piano-left-edge-768x768.jpg",
       "rating": 5,
       "subtitle": "The best for synth and workstation functionality"
     },
@@ -86,7 +86,7 @@
       "description": "Our favourite digital piano under $1,00",
       "price": 40000,
       "currency": "PHP",
-      "image": "/",
+      "image": "https://cdn.mos.cms.futurecdn.net/wsucugodTKDck2fGQ7PFLj-1200-80.jpg.webp",
       "rating": 5,
       "subtitle": "Our favourite digital piano under $1,00"
     },
@@ -96,7 +96,7 @@
       "description": "The best for modern home",
       "price": 90000,
       "currency": "PHP",
-      "image": "/",
+      "image": "https://cdn.mos.cms.futurecdn.net/wsucugodTKDck2fGQ7PFLj-1200-80.jpg.webp",
       "rating": 3,
       "subtitle": "The best for modern home"
     },
@@ -106,7 +106,7 @@
       "description": "The best for synth and workstation functionality",
       "price": 60000,
       "currency": "PHP",
-      "image": "/",
+      "image": "https://cdn.mos.cms.futurecdn.net/wsucugodTKDck2fGQ7PFLj-1200-80.jpg.webp",
       "rating": 5,
       "subtitle": "The best for synth and workstation functionality"
     }
