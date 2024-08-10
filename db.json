@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "product_title",
+      "description": "product_description",
+      "price": 1,
+      "currency": "USD",
+      "image": "product_image",
+      "rating": 4.5
+    }
+  ]
+}
